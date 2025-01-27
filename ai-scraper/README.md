@@ -22,3 +22,7 @@ Run the Streamlit app:
 ```bash
 streamlit run ai_scraper.py
 ```
+OR
+```bash
+python -m streamlit run pdf_rag.py
+```
